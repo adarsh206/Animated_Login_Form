@@ -1,7 +1,7 @@
 # Animated_Login_Form
-
-
 Created a simple animated login form using HTML &amp; CSS.
+
+
 ---------------Description--------------:
 Simple animated login form where you can login and register if you are coming for the first time.
 Cool looking form for login into your account.
